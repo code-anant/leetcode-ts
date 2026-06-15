@@ -8,10 +8,10 @@ A personal collection of LeetCode problem solutions, organized by topic and diff
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| 🟢 Easy    | 1      |
+| 🟢 Easy    | 3      |
 | 🟡 Medium  | 0      |
 | 🔴 Hard    | 0      |
-| **Total**  | **1**  |
+| **Total**  | **3**  |
 
 > Update this table as you solve more problems.
 
@@ -21,7 +21,7 @@ A personal collection of LeetCode problem solutions, organized by topic and diff
 
 | Topic               | Problems Solved |
 | ------------------- | --------------- |
-| Arrays & Hashing    | -               |
+| Arrays & Hashing    | 3               |
 | Two Pointers        | -               |
 | Sliding Window      | -               |
 | Stack               | -               |
